@@ -1,0 +1,72 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity ulaRV is
+generics (WSIZE : natural := 32);
+	port (
+		opcode : in std_logic(3 downto 0)
+		A, B : in std_logic_vector(WSIZE-1 downto 0);
+		Z : out std_logic_vector(WSIZE-1 downto 0)
+		);
+end ulaRV;
+---------------------------------------------
+
+ARCHITECTURE behavior OF ulaRV IS
+BEGIN
+	add:process
+	begin
+	end process add;
+
+	sub:process
+	begin
+	end process sub;
+
+	and_p:process
+	begin
+	end process and_p;
+
+	or_p:process
+	begin
+	end process or_p;
+
+	xor_p:process
+	begin
+	end process xor_p;
+
+	sll_p:process
+	begin
+	end process sll_p;
+
+	srl_p:process
+	begin
+	end process slr_p;
+
+	sra_p:process
+	begin
+	end process sra_p;
+
+	slt_p:process
+	begin
+	end process slt_p;
+
+	sltu_p:process
+	begin
+	end process sltu_p;
+	
+	sge:process
+	begin
+	end process sge;
+	
+	sgeu:process
+	begin
+	end process sgeu;
+
+	seq:process
+	begin
+	end process seq;
+
+	sne:process
+	begin
+	end process sne;
+END behavior;

@@ -1,0 +1,134 @@
+# Compile of design.vhd failed with 1 errors.
+# Compile of testbench.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 2 errors.
+# Compile of design.vhd failed with 1 errors.
+# Compile of testbench.vhd failed with 10 errors.
+# 2 compiles, 2 failed with 11 errors.
+# Compile of design.vhd failed with 29 errors.
+# Compile of testbench.vhd failed with 7 errors.
+# 2 compiles, 2 failed with 36 errors.
+# Compile of design.vhd failed with 16 errors.
+# Compile of testbench.vhd failed with 7 errors.
+# 2 compiles, 2 failed with 23 errors.
+# Load canceled
+# Compile of design.vhd failed with 16 errors.
+# Compile of testbench.vhd failed with 7 errors.
+# 2 compiles, 2 failed with 23 errors.
+# Compile of design.vhd failed with 16 errors.
+# Compile of testbench.vhd failed with 7 errors.
+# 2 compiles, 2 failed with 23 errors.
+# Compile of design.vhd failed with 17 errors.
+# Compile of testbench.vhd failed with 7 errors.
+# 2 compiles, 2 failed with 24 errors.
+# Compile of design.vhd failed with 17 errors.
+# Compile of testbench.vhd failed with 7 errors.
+# 2 compiles, 2 failed with 24 errors.
+# Compile of design.vhd failed with 17 errors.
+# Compile of testbench.vhd failed with 7 errors.
+# 2 compiles, 2 failed with 24 errors.
+# Compile of design.vhd failed with 17 errors.
+# Compile of testbench.vhd failed with 7 errors.
+# 2 compiles, 2 failed with 24 errors.
+# Compile of design.vhd failed with 17 errors.
+# Compile of testbench.vhd failed with 7 errors.
+# 2 compiles, 2 failed with 24 errors.
+# Compile of design.vhd failed with 15 errors.
+# Compile of testbench.vhd failed with 7 errors.
+# 2 compiles, 2 failed with 22 errors.
+# Compile of design.vhd failed with 15 errors.
+# Compile of testbench.vhd failed with 7 errors.
+# 2 compiles, 2 failed with 22 errors.
+# Compile of design.vhd failed with 15 errors.
+# Compile of testbench.vhd failed with 7 errors.
+# 2 compiles, 2 failed with 22 errors.
+# Compile of design.vhd failed with 11 errors.
+# Compile of testbench.vhd failed with 7 errors.
+# 2 compiles, 2 failed with 18 errors.
+# Compile of design.vhd failed with 1 errors.
+# Compile of testbench.vhd failed with 7 errors.
+# 2 compiles, 2 failed with 8 errors.
+# Compile of design.vhd was successful with warnings.
+# Compile of testbench.vhd failed with 7 errors.
+# 2 compiles, 1 failed with 7 errors.
+# Compile of design.vhd was successful with warnings.
+# Compile of testbench.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.ula_tb
+# vsim -gui work.ula_tb 
+# Start time: 11:37:37 on Feb 07,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.ula_tb(tb_arch)
+# Loading work.ularv(behavior)
+add wave -position insertpoint sim:/ula_tb/*
+run
+# Break key hit
+# Break in Process ULA_p at C:/Users/jonas/Desktop/UnB/OAC/Trabalho 6 - ULA/design.vhd line 56
+run -all
+# Break key hit
+# Break in Process ULA_p at C:/Users/jonas/Desktop/UnB/OAC/Trabalho 6 - ULA/design.vhd line 56
+# Compile of design.vhd was successful with warnings.
+# Compile of testbench.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.ula_tb
+# End time: 11:41:51 on Feb 07,2023, Elapsed time: 0:04:14
+# Errors: 0, Warnings: 20
+# vsim -gui work.ula_tb 
+# Start time: 11:41:51 on Feb 07,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.ula_tb(tb_arch)
+# Loading work.ularv(behavior)
+add wave -position insertpoint sim:/ula_tb/*
+add wave -position insertpoint sim:/ula_tb/dut/*
+add wave -position insertpoint sim:/ula_tb/drive/*
+# ** UI-Msg: (vish-4014) No objects found matching '/ula_tb/drive/*'.
+run
+# Break key hit
+# Break in Process ULA_p at C:/Users/jonas/Desktop/UnB/OAC/Trabalho 6 - ULA/design.vhd line 56
+restart
+run -continue
+# Break key hit
+# Break in Process ULA_p at C:/Users/jonas/Desktop/UnB/OAC/Trabalho 6 - ULA/design.vhd line 56
+# Compile of design.vhd was successful with warnings.
+# Compile of testbench.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.ula_tb
+# End time: 11:45:21 on Feb 07,2023, Elapsed time: 0:03:30
+# Errors: 0, Warnings: 2
+# vsim -gui work.ula_tb 
+# Start time: 11:45:21 on Feb 07,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.ula_tb(tb_arch)
+# Loading work.ularv(behavior)
+add wave -position insertpoint sim:/ula_tb/dut/*
+run
+# Break key hit
+# Break in Process ULA_p at C:/Users/jonas/Desktop/UnB/OAC/Trabalho 6 - ULA/design.vhd line 56
+# Break key hit
+# Compile of design.vhd failed with 1 errors.
+# Compile of testbench.vhd was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of design.vhd was successful.
+# Compile of testbench.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.ula_tb
+# End time: 11:48:37 on Feb 07,2023, Elapsed time: 0:03:16
+# Errors: 0, Warnings: 3
+# vsim -gui work.ula_tb 
+# Start time: 11:48:37 on Feb 07,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.ula_tb(tb_arch)
+# Loading work.ularv(behavior)
+add wave -position insertpoint sim:/ula_tb/dut/*
+run

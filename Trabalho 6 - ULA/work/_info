@@ -1,0 +1,97 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/jonas/Desktop/UnB/OAC/Trabalho 5 - Banco de registradores VHDL
+Eula_tb
+Z0 w1675781101
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 41
+Z4 dC:/Users/jonas/Desktop/UnB/OAC/Trabalho 6 - ULA
+Z5 8C:\Users\jonas\Desktop\UnB\OAC\Trabalho 6 - ULA\testbench.vhd
+Z6 FC:\Users\jonas\Desktop\UnB\OAC\Trabalho 6 - ULA\testbench.vhd
+l0
+L5 1
+VGafOF8CKmFe]]JC9mKOKF2
+!s100 ]Y8jdUYWFK_6d`Sl6NAZJ0
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1675781311
+!i10b 1
+Z9 !s108 1675781310.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\jonas\Desktop\UnB\OAC\Trabalho 6 - ULA\testbench.vhd|
+Z11 !s107 C:\Users\jonas\Desktop\UnB\OAC\Trabalho 6 - ULA\testbench.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Atb_arch
+R1
+R2
+R3
+Z14 DEx4 work 6 ula_tb 0 22 GafOF8CKmFe]]JC9mKOKF2
+!i122 41
+l22
+Z15 L8 32
+Z16 VhXiB9FRPi6:eX6YTnZJ;?3
+Z17 !s100 0nCB8^Il409fAXdNmRhl83
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eularv
+Z18 w1675781303
+R1
+R2
+R3
+!i122 40
+R4
+Z19 8C:\Users\jonas\Desktop\UnB\OAC\Trabalho 6 - ULA\design.vhd
+Z20 FC:\Users\jonas\Desktop\UnB\OAC\Trabalho 6 - ULA\design.vhd
+l0
+L5 1
+VbiZa;LnKh2KO93XWmO9E11
+!s100 Vha_aSeKO<Ni@dAj;ZiMZ3
+R7
+32
+Z21 !s110 1675781310
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\jonas\Desktop\UnB\OAC\Trabalho 6 - ULA\design.vhd|
+Z23 !s107 C:\Users\jonas\Desktop\UnB\OAC\Trabalho 6 - ULA\design.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 5 ularv 0 22 biZa;LnKh2KO93XWmO9E11
+!i122 40
+l18
+L15 43
+Vehf56f^4j]G;YZ149LT^[0
+!s100 2=X9NC8zNcbUe0o20G5Te3
+R7
+32
+R21
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
